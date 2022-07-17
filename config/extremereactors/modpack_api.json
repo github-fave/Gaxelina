@@ -1,0 +1,25 @@
+{
+  "Enabled": true,
+  "ReactorFluidModerators": {
+    "WipeExistingValuesBeforeAdding": false,
+    "Add": [
+      {
+        "TagId": "tconstruct:molten_ender",
+        "Absorption": 50.0,
+        "HeatEfficiency": 50.0,
+        "Moderation": 50.0,
+        "HeatConductivity": 50.0
+      },
+      {
+        "TagId": "tconstruct:flowing_molten_ender",
+        "Absorption": 50.0,
+        "HeatEfficiency": 50.0,
+        "Moderation": 50.0,
+        "HeatConductivity": 50.0
+      }
+    ],
+    "Remove": [
+      ""
+    ]
+  }
+}

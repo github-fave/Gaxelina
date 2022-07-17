@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ThatFave",
+      "uniqueId": "46c64ebc-136d-427c-8a1e-908f4067603b"
+    },
+    "time": 1658009846522,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jhJ6Ahtud5"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+0.0.3
+
+GENERAL:
++ pickletweaks (config)
++ jei remove
+
+MOD LIST CHANGE:
+- buildingwands
++ building gadgets
++ controlling
+- harvest (pickletweaks)
++ Travel Anchors
+
+0.0.2
+
+GENERAL:
+
++ kubejsunification,jeihide
++ ProjectEEMCfixing
+
+MODLISTCHANGE:
+
+- ExtremeReactors (refer to Powah instead)
++ CookingforBlockheads (primary for the sink :p)
++ JAMD
++ BuildingWands
++ Quartz
++ Phosphophyllite
++ APTweaks:Core
++ Architectury
++ BetterBiomeBlend
++ BetterFPSDistance
++ Clumps
++ EntityCulling
++ FastSuite
++ FastWorkbench
++ FastFurnace
++ FerritCore
++ GetItTogether,Drops!
++ ItShallNotTick
++ KotlinforForge
++ KryptonReforged
++ Ksyxis
++ Observable
++ Radium
++ Rubidium
++ Starlight
++ AiImprovements
++ AlternateCurrent
+
+0.0.1
+inital version

@@ -1,0 +1,766 @@
+{
+	"itemsToTags": {
+		"alltheores:iron_plate": "forge:plates/iron",
+		"thermal:iron_plate": "forge:plates/iron",
+		"immersiveengineering:plate_iron": "forge:plates/iron",
+		"alltheores:iron_gear": "forge:gears/iron",
+		"industrialforegoing:iron_gear": "forge:gears/iron",
+		"thermal:iron_gear": "forge:gears/iron",
+		"alltheores:gold_gear": "forge:gears/gold",
+		"industrialforegoing:gold_gear": "forge:gears/gold",
+		"thermal:gold_gear": "forge:gears/gold",
+		"alltheores:diamond_gear": "forge:gears/diamond",
+		"industrialforegoing:diamond_gear": "forge:gears/diamond",
+		"thermal:diamond_gear": "forge:gears/diamond",
+		"alltheores:gold_plate": "forge:plates/gold",
+		"thermal:gold_plate": "forge:plates/gold",
+		"immersiveengineering:plate_gold": "forge:plates/gold",
+		"minecraft:copper_block": "forge:storage_blocks/copper",
+		"minecraft:cut_copper": "forge:storage_blocks/copper",
+		"alltheores:tin_block": "forge:storage_blocks/tin",
+		"mekanism:block_tin": "forge:storage_blocks/tin",
+		"thermal:tin_block": "forge:storage_blocks/tin",
+		"alltheores:aluminum_block": "forge:storage_blocks/aluminum",
+		"immersiveengineering:storage_aluminum": "forge:storage_blocks/aluminum",
+		"alltheores:lead_block": "forge:storage_blocks/lead",
+		"mekanism:block_lead": "forge:storage_blocks/lead",
+		"thermal:lead_block": "forge:storage_blocks/lead",
+		"immersiveengineering:storage_lead": "forge:storage_blocks/lead",
+		"alltheores:silver_block": "forge:storage_blocks/silver",
+		"thermal:silver_block": "forge:storage_blocks/silver",
+		"immersiveengineering:storage_silver": "forge:storage_blocks/silver",
+		"occultism:silver_block": "forge:storage_blocks/silver",
+		"alltheores:nickel_block": "forge:storage_blocks/nickel",
+		"thermal:nickel_block": "forge:storage_blocks/nickel",
+		"immersiveengineering:storage_nickel": "forge:storage_blocks/nickel",
+		"alltheores:bronze_block": "forge:storage_blocks/bronze",
+		"mekanism:block_bronze": "forge:storage_blocks/bronze",
+		"thermal:bronze_block": "forge:storage_blocks/bronze",
+		"alltheores:steel_block": "forge:storage_blocks/steel",
+		"mekanism:block_steel": "forge:storage_blocks/steel",
+		"thermal:steel_block": "forge:storage_blocks/steel",
+		"immersiveengineering:storage_steel": "forge:storage_blocks/steel",
+		"alltheores:uranium_block": "forge:storage_blocks/uranium",
+		"mekanism:block_uranium": "forge:storage_blocks/uranium",
+		"immersiveengineering:storage_uranium": "forge:storage_blocks/uranium",
+		"alltheores:tin_ingot": "forge:ingots/tin",
+		"mekanism:ingot_tin": "forge:ingots/tin",
+		"thermal:tin_ingot": "forge:ingots/tin",
+		"alltheores:aluminum_ingot": "forge:ingots/aluminum",
+		"immersiveengineering:ingot_aluminum": "forge:ingots/aluminum",
+		"alltheores:lead_ingot": "forge:ingots/lead",
+		"mekanism:ingot_lead": "forge:ingots/lead",
+		"thermal:lead_ingot": "forge:ingots/lead",
+		"immersiveengineering:ingot_lead": "forge:ingots/lead",
+		"alltheores:silver_ingot": "forge:ingots/silver",
+		"thermal:silver_ingot": "forge:ingots/silver",
+		"immersiveengineering:ingot_silver": "forge:ingots/silver",
+		"occultism:silver_ingot": "forge:ingots/silver",
+		"alltheores:nickel_ingot": "forge:ingots/nickel",
+		"thermal:nickel_ingot": "forge:ingots/nickel",
+		"immersiveengineering:ingot_nickel": "forge:ingots/nickel",
+		"alltheores:bronze_ingot": "forge:ingots/bronze",
+		"mekanism:ingot_bronze": "forge:ingots/bronze",
+		"thermal:bronze_ingot": "forge:ingots/bronze",
+		"alltheores:steel_ingot": "forge:ingots/steel",
+		"mekanism:ingot_steel": "forge:ingots/steel",
+		"thermal:steel_ingot": "forge:ingots/steel",
+		"immersiveengineering:ingot_steel": "forge:ingots/steel",
+		"alltheores:uranium_ingot": "forge:ingots/uranium",
+		"mekanism:ingot_uranium": "forge:ingots/uranium",
+		"immersiveengineering:ingot_uranium": "forge:ingots/uranium",
+		"alltheores:copper_nugget": "forge:nuggets/copper",
+		"thermal:copper_nugget": "forge:nuggets/copper",
+		"tconstruct:copper_nugget": "forge:nuggets/copper",
+		"immersiveengineering:nugget_copper": "forge:nuggets/copper",
+		"alltheores:tin_nugget": "forge:nuggets/tin",
+		"mekanism:nugget_tin": "forge:nuggets/tin",
+		"thermal:tin_nugget": "forge:nuggets/tin",
+		"alltheores:aluminum_nugget": "forge:nuggets/aluminum",
+		"immersiveengineering:nugget_aluminum": "forge:nuggets/aluminum",
+		"alltheores:lead_nugget": "forge:nuggets/lead",
+		"mekanism:nugget_lead": "forge:nuggets/lead",
+		"thermal:lead_nugget": "forge:nuggets/lead",
+		"immersiveengineering:nugget_lead": "forge:nuggets/lead",
+		"alltheores:silver_nugget": "forge:nuggets/silver",
+		"thermal:silver_nugget": "forge:nuggets/silver",
+		"immersiveengineering:nugget_silver": "forge:nuggets/silver",
+		"occultism:silver_nugget": "forge:nuggets/silver",
+		"alltheores:nickel_nugget": "forge:nuggets/nickel",
+		"thermal:nickel_nugget": "forge:nuggets/nickel",
+		"immersiveengineering:nugget_nickel": "forge:nuggets/nickel",
+		"alltheores:bronze_nugget": "forge:nuggets/bronze",
+		"mekanism:nugget_bronze": "forge:nuggets/bronze",
+		"thermal:bronze_nugget": "forge:nuggets/bronze",
+		"alltheores:steel_nugget": "forge:nuggets/steel",
+		"mekanism:nugget_steel": "forge:nuggets/steel",
+		"thermal:steel_nugget": "forge:nuggets/steel",
+		"immersiveengineering:nugget_steel": "forge:nuggets/steel",
+		"alltheores:uranium_nugget": "forge:nuggets/uranium",
+		"mekanism:nugget_uranium": "forge:nuggets/uranium",
+		"immersiveengineering:nugget_uranium": "forge:nuggets/uranium",
+		"alltheores:copper_dust": "forge:dusts/copper",
+		"mekanism:dust_copper": "forge:dusts/copper",
+		"thermal:copper_dust": "forge:dusts/copper",
+		"immersiveengineering:dust_copper": "forge:dusts/copper",
+		"occultism:copper_dust": "forge:dusts/copper",
+		"alltheores:tin_dust": "forge:dusts/tin",
+		"mekanism:dust_tin": "forge:dusts/tin",
+		"thermal:tin_dust": "forge:dusts/tin",
+		"alltheores:aluminum_dust": "forge:dusts/aluminum",
+		"immersiveengineering:dust_aluminum": "forge:dusts/aluminum",
+		"alltheores:lead_dust": "forge:dusts/lead",
+		"mekanism:dust_lead": "forge:dusts/lead",
+		"thermal:lead_dust": "forge:dusts/lead",
+		"immersiveengineering:dust_lead": "forge:dusts/lead",
+		"alltheores:silver_dust": "forge:dusts/silver",
+		"thermal:silver_dust": "forge:dusts/silver",
+		"immersiveengineering:dust_silver": "forge:dusts/silver",
+		"occultism:silver_dust": "forge:dusts/silver",
+		"alltheores:nickel_dust": "forge:dusts/nickel",
+		"thermal:nickel_dust": "forge:dusts/nickel",
+		"immersiveengineering:dust_nickel": "forge:dusts/nickel",
+		"alltheores:bronze_dust": "forge:dusts/bronze",
+		"mekanism:dust_bronze": "forge:dusts/bronze",
+		"thermal:bronze_dust": "forge:dusts/bronze",
+		"alltheores:steel_dust": "forge:dusts/steel",
+		"mekanism:dust_steel": "forge:dusts/steel",
+		"thermal:steel_dust": "forge:dusts/steel",
+		"immersiveengineering:dust_steel": "forge:dusts/steel",
+		"alltheores:uranium_dust": "forge:dusts/uranium",
+		"mekanism:dust_uranium": "forge:dusts/uranium",
+		"immersiveengineering:dust_uranium": "forge:dusts/uranium",
+		"alltheores:copper_gear": "forge:gears/copper",
+		"thermal:copper_gear": "forge:gears/copper",
+		"alltheores:tin_gear": "forge:gears/tin",
+		"thermal:tin_gear": "forge:gears/tin",
+		"alltheores:lead_gear": "forge:gears/lead",
+		"thermal:lead_gear": "forge:gears/lead",
+		"alltheores:silver_gear": "forge:gears/silver",
+		"thermal:silver_gear": "forge:gears/silver",
+		"alltheores:nickel_gear": "forge:gears/nickel",
+		"thermal:nickel_gear": "forge:gears/nickel",
+		"alltheores:bronze_gear": "forge:gears/bronze",
+		"thermal:bronze_gear": "forge:gears/bronze",
+		"alltheores:steel_gear": "forge:gears/steel",
+		"thermal:steel_gear": "forge:gears/steel",
+		"alltheores:copper_plate": "forge:plates/copper",
+		"thermal:copper_plate": "forge:plates/copper",
+		"immersiveengineering:plate_copper": "forge:plates/copper",
+		"alltheores:tin_plate": "forge:plates/tin",
+		"thermal:tin_plate": "forge:plates/tin",
+		"alltheores:aluminum_plate": "forge:plates/aluminum",
+		"immersiveengineering:plate_aluminum": "forge:plates/aluminum",
+		"alltheores:lead_plate": "forge:plates/lead",
+		"thermal:lead_plate": "forge:plates/lead",
+		"immersiveengineering:plate_lead": "forge:plates/lead",
+		"alltheores:silver_plate": "forge:plates/silver",
+		"thermal:silver_plate": "forge:plates/silver",
+		"immersiveengineering:plate_silver": "forge:plates/silver",
+		"alltheores:nickel_plate": "forge:plates/nickel",
+		"thermal:nickel_plate": "forge:plates/nickel",
+		"immersiveengineering:plate_nickel": "forge:plates/nickel",
+		"alltheores:bronze_plate": "forge:plates/bronze",
+		"thermal:bronze_plate": "forge:plates/bronze",
+		"alltheores:steel_plate": "forge:plates/steel",
+		"thermal:steel_plate": "forge:plates/steel",
+		"immersiveengineering:plate_steel": "forge:plates/steel",
+		"alltheores:uranium_plate": "forge:plates/uranium",
+		"immersiveengineering:plate_uranium": "forge:plates/uranium",
+		"alltheores:raw_tin": "forge:raw_materials/tin",
+		"mekanism:raw_tin": "forge:raw_materials/tin",
+		"thermal:raw_tin": "forge:raw_materials/tin",
+		"alltheores:raw_aluminum": "forge:raw_materials/aluminum",
+		"immersiveengineering:raw_aluminum": "forge:raw_materials/aluminum",
+		"alltheores:raw_lead": "forge:raw_materials/lead",
+		"mekanism:raw_lead": "forge:raw_materials/lead",
+		"thermal:raw_lead": "forge:raw_materials/lead",
+		"immersiveengineering:raw_lead": "forge:raw_materials/lead",
+		"alltheores:raw_silver": "forge:raw_materials/silver",
+		"thermal:raw_silver": "forge:raw_materials/silver",
+		"immersiveengineering:raw_silver": "forge:raw_materials/silver",
+		"occultism:raw_silver": "forge:raw_materials/silver",
+		"alltheores:raw_nickel": "forge:raw_materials/nickel",
+		"thermal:raw_nickel": "forge:raw_materials/nickel",
+		"immersiveengineering:raw_nickel": "forge:raw_materials/nickel",
+		"alltheores:raw_uranium": "forge:raw_materials/uranium",
+		"mekanism:raw_uranium": "forge:raw_materials/uranium",
+		"immersiveengineering:raw_uranium": "forge:raw_materials/uranium",
+		"alltheores:raw_tin_block": "forge:storage_blocks/raw_tin",
+		"mekanism:block_raw_tin": "forge:storage_blocks/raw_tin",
+		"thermal:raw_tin_block": "forge:storage_blocks/raw_tin",
+		"alltheores:raw_aluminum_block": "forge:storage_blocks/raw_aluminum",
+		"immersiveengineering:raw_block_aluminum": "forge:storage_blocks/raw_aluminum",
+		"alltheores:raw_lead_block": "forge:storage_blocks/raw_lead",
+		"mekanism:block_raw_lead": "forge:storage_blocks/raw_lead",
+		"thermal:raw_lead_block": "forge:storage_blocks/raw_lead",
+		"immersiveengineering:raw_block_lead": "forge:storage_blocks/raw_lead",
+		"alltheores:raw_silver_block": "forge:storage_blocks/raw_silver",
+		"thermal:raw_silver_block": "forge:storage_blocks/raw_silver",
+		"immersiveengineering:raw_block_silver": "forge:storage_blocks/raw_silver",
+		"alltheores:raw_nickel_block": "forge:storage_blocks/raw_nickel",
+		"thermal:raw_nickel_block": "forge:storage_blocks/raw_nickel",
+		"immersiveengineering:raw_block_nickel": "forge:storage_blocks/raw_nickel",
+		"alltheores:raw_uranium_block": "forge:storage_blocks/raw_uranium",
+		"mekanism:block_raw_uranium": "forge:storage_blocks/raw_uranium",
+		"immersiveengineering:raw_block_uranium": "forge:storage_blocks/raw_uranium",
+		"alltheores:osmium_ingot": "forge:ingots/osmium",
+		"mekanism:ingot_osmium": "forge:ingots/osmium",
+		"mekanism:dust_sulfur": "forge:dusts/sulfur",
+		"thermal:sulfur_dust": "forge:dusts/sulfur",
+		"immersiveengineering:dust_sulfur": "forge:dusts/sulfur",
+		"mekanism:dust_netherite": "forge:dusts/netherite",
+		"thermal:netherite_dust": "forge:dusts/netherite",
+		"alltheores:tin_slate_ore": "unifytags:tag3",
+		"mekanism:deepslate_tin_ore": "unifytags:tag3",
+		"thermal:deepslate_tin_ore": "unifytags:tag3",
+		"alltheores:tin_ore": "unifytags:tag5",
+		"mekanism:tin_ore": "unifytags:tag5",
+		"thermal:tin_ore": "unifytags:tag5",
+		"alltheores:aluminum_slate_ore": "unifytags:tag6",
+		"immersiveengineering:deepslate_ore_aluminum": "unifytags:tag6",
+		"alltheores:aluminum_ore": "unifytags:tag8",
+		"immersiveengineering:ore_aluminum": "unifytags:tag8",
+		"alltheores:lead_slate_ore": "unifytags:tag9",
+		"mekanism:deepslate_lead_ore": "unifytags:tag9",
+		"immersiveengineering:deepslate_ore_lead": "unifytags:tag9",
+		"thermal:deepslate_lead_ore": "unifytags:tag9",
+		"alltheores:lead_ore": "unifytags:tag11",
+		"mekanism:lead_ore": "unifytags:tag11",
+		"immersiveengineering:ore_lead": "unifytags:tag11",
+		"thermal:lead_ore": "unifytags:tag11",
+		"alltheores:silver_slate_ore": "unifytags:tag12",
+		"immersiveengineering:deepslate_ore_silver": "unifytags:tag12",
+		"thermal:deepslate_silver_ore": "unifytags:tag12",
+		"alltheores:silver_ore": "unifytags:tag14",
+		"immersiveengineering:ore_silver": "unifytags:tag14",
+		"thermal:silver_ore": "unifytags:tag14",
+		"alltheores:nickel_slate_ore": "unifytags:tag15",
+		"immersiveengineering:deepslate_ore_nickel": "unifytags:tag15",
+		"thermal:deepslate_nickel_ore": "unifytags:tag15",
+		"alltheores:nickel_ore": "unifytags:tag17",
+		"immersiveengineering:ore_nickel": "unifytags:tag17",
+		"thermal:nickel_ore": "unifytags:tag17",
+		"alltheores:uranium_slate_ore": "unifytags:tag27",
+		"mekanism:deepslate_uranium_ore": "unifytags:tag27",
+		"immersiveengineering:deepslate_ore_uranium": "unifytags:tag27",
+		"alltheores:uranium_ore": "unifytags:tag29",
+		"mekanism:uranium_ore": "unifytags:tag29",
+		"immersiveengineering:ore_uranium": "unifytags:tag29",
+		"alltheores:osmium_slate_ore": "unifytags:tag36",
+		"mekanism:deepslate_osmium_ore": "unifytags:tag36",
+		"alltheores:osmium_ore": "unifytags:tag38",
+		"mekanism:osmium_ore": "unifytags:tag38"
+	},
+	"tagItems": {
+		"forge:plates/iron": [
+			"alltheores:iron_plate",
+			"thermal:iron_plate",
+			"immersiveengineering:plate_iron"
+		],
+		"forge:gears/iron": [
+			"alltheores:iron_gear",
+			"industrialforegoing:iron_gear",
+			"thermal:iron_gear"
+		],
+		"forge:gears/gold": [
+			"alltheores:gold_gear",
+			"industrialforegoing:gold_gear",
+			"thermal:gold_gear"
+		],
+		"forge:gears/diamond": [
+			"alltheores:diamond_gear",
+			"industrialforegoing:diamond_gear",
+			"thermal:diamond_gear"
+		],
+		"forge:plates/gold": [
+			"alltheores:gold_plate",
+			"thermal:gold_plate",
+			"immersiveengineering:plate_gold"
+		],
+		"forge:storage_blocks/copper": [
+			"minecraft:copper_block",
+			"minecraft:cut_copper"
+		],
+		"forge:storage_blocks/tin": [
+			"alltheores:tin_block",
+			"mekanism:block_tin",
+			"thermal:tin_block"
+		],
+		"forge:storage_blocks/aluminum": [
+			"alltheores:aluminum_block",
+			"immersiveengineering:storage_aluminum"
+		],
+		"forge:storage_blocks/lead": [
+			"alltheores:lead_block",
+			"mekanism:block_lead",
+			"thermal:lead_block",
+			"immersiveengineering:storage_lead"
+		],
+		"forge:storage_blocks/silver": [
+			"alltheores:silver_block",
+			"thermal:silver_block",
+			"immersiveengineering:storage_silver",
+			"occultism:silver_block"
+		],
+		"forge:storage_blocks/nickel": [
+			"alltheores:nickel_block",
+			"thermal:nickel_block",
+			"immersiveengineering:storage_nickel"
+		],
+		"forge:storage_blocks/bronze": [
+			"alltheores:bronze_block",
+			"mekanism:block_bronze",
+			"thermal:bronze_block"
+		],
+		"forge:storage_blocks/steel": [
+			"alltheores:steel_block",
+			"mekanism:block_steel",
+			"thermal:steel_block",
+			"immersiveengineering:storage_steel"
+		],
+		"forge:storage_blocks/uranium": [
+			"alltheores:uranium_block",
+			"mekanism:block_uranium",
+			"immersiveengineering:storage_uranium"
+		],
+		"forge:ingots/tin": [
+			"alltheores:tin_ingot",
+			"mekanism:ingot_tin",
+			"thermal:tin_ingot"
+		],
+		"forge:ingots/aluminum": [
+			"alltheores:aluminum_ingot",
+			"immersiveengineering:ingot_aluminum"
+		],
+		"forge:ingots/lead": [
+			"alltheores:lead_ingot",
+			"mekanism:ingot_lead",
+			"thermal:lead_ingot",
+			"immersiveengineering:ingot_lead"
+		],
+		"forge:ingots/silver": [
+			"alltheores:silver_ingot",
+			"thermal:silver_ingot",
+			"immersiveengineering:ingot_silver",
+			"occultism:silver_ingot"
+		],
+		"forge:ingots/nickel": [
+			"alltheores:nickel_ingot",
+			"thermal:nickel_ingot",
+			"immersiveengineering:ingot_nickel"
+		],
+		"forge:ingots/bronze": [
+			"alltheores:bronze_ingot",
+			"mekanism:ingot_bronze",
+			"thermal:bronze_ingot"
+		],
+		"forge:ingots/steel": [
+			"alltheores:steel_ingot",
+			"mekanism:ingot_steel",
+			"thermal:steel_ingot",
+			"immersiveengineering:ingot_steel"
+		],
+		"forge:ingots/uranium": [
+			"alltheores:uranium_ingot",
+			"mekanism:ingot_uranium",
+			"immersiveengineering:ingot_uranium"
+		],
+		"forge:nuggets/copper": [
+			"alltheores:copper_nugget",
+			"thermal:copper_nugget",
+			"tconstruct:copper_nugget",
+			"immersiveengineering:nugget_copper"
+		],
+		"forge:nuggets/tin": [
+			"alltheores:tin_nugget",
+			"mekanism:nugget_tin",
+			"thermal:tin_nugget"
+		],
+		"forge:nuggets/aluminum": [
+			"alltheores:aluminum_nugget",
+			"immersiveengineering:nugget_aluminum"
+		],
+		"forge:nuggets/lead": [
+			"alltheores:lead_nugget",
+			"mekanism:nugget_lead",
+			"thermal:lead_nugget",
+			"immersiveengineering:nugget_lead"
+		],
+		"forge:nuggets/silver": [
+			"alltheores:silver_nugget",
+			"thermal:silver_nugget",
+			"immersiveengineering:nugget_silver",
+			"occultism:silver_nugget"
+		],
+		"forge:nuggets/nickel": [
+			"alltheores:nickel_nugget",
+			"thermal:nickel_nugget",
+			"immersiveengineering:nugget_nickel"
+		],
+		"forge:nuggets/bronze": [
+			"alltheores:bronze_nugget",
+			"mekanism:nugget_bronze",
+			"thermal:bronze_nugget"
+		],
+		"forge:nuggets/steel": [
+			"alltheores:steel_nugget",
+			"mekanism:nugget_steel",
+			"thermal:steel_nugget",
+			"immersiveengineering:nugget_steel"
+		],
+		"forge:nuggets/uranium": [
+			"alltheores:uranium_nugget",
+			"mekanism:nugget_uranium",
+			"immersiveengineering:nugget_uranium"
+		],
+		"forge:dusts/copper": [
+			"alltheores:copper_dust",
+			"mekanism:dust_copper",
+			"thermal:copper_dust",
+			"immersiveengineering:dust_copper",
+			"occultism:copper_dust"
+		],
+		"forge:dusts/tin": [
+			"alltheores:tin_dust",
+			"mekanism:dust_tin",
+			"thermal:tin_dust"
+		],
+		"forge:dusts/aluminum": [
+			"alltheores:aluminum_dust",
+			"immersiveengineering:dust_aluminum"
+		],
+		"forge:dusts/lead": [
+			"alltheores:lead_dust",
+			"mekanism:dust_lead",
+			"thermal:lead_dust",
+			"immersiveengineering:dust_lead"
+		],
+		"forge:dusts/silver": [
+			"alltheores:silver_dust",
+			"thermal:silver_dust",
+			"immersiveengineering:dust_silver",
+			"occultism:silver_dust"
+		],
+		"forge:dusts/nickel": [
+			"alltheores:nickel_dust",
+			"thermal:nickel_dust",
+			"immersiveengineering:dust_nickel"
+		],
+		"forge:dusts/bronze": [
+			"alltheores:bronze_dust",
+			"mekanism:dust_bronze",
+			"thermal:bronze_dust"
+		],
+		"forge:dusts/steel": [
+			"alltheores:steel_dust",
+			"mekanism:dust_steel",
+			"thermal:steel_dust",
+			"immersiveengineering:dust_steel"
+		],
+		"forge:dusts/uranium": [
+			"alltheores:uranium_dust",
+			"mekanism:dust_uranium",
+			"immersiveengineering:dust_uranium"
+		],
+		"forge:gears/copper": [
+			"alltheores:copper_gear",
+			"thermal:copper_gear"
+		],
+		"forge:gears/tin": [
+			"alltheores:tin_gear",
+			"thermal:tin_gear"
+		],
+		"forge:gears/lead": [
+			"alltheores:lead_gear",
+			"thermal:lead_gear"
+		],
+		"forge:gears/silver": [
+			"alltheores:silver_gear",
+			"thermal:silver_gear"
+		],
+		"forge:gears/nickel": [
+			"alltheores:nickel_gear",
+			"thermal:nickel_gear"
+		],
+		"forge:gears/bronze": [
+			"alltheores:bronze_gear",
+			"thermal:bronze_gear"
+		],
+		"forge:gears/steel": [
+			"alltheores:steel_gear",
+			"thermal:steel_gear"
+		],
+		"forge:plates/copper": [
+			"alltheores:copper_plate",
+			"thermal:copper_plate",
+			"immersiveengineering:plate_copper"
+		],
+		"forge:plates/tin": [
+			"alltheores:tin_plate",
+			"thermal:tin_plate"
+		],
+		"forge:plates/aluminum": [
+			"alltheores:aluminum_plate",
+			"immersiveengineering:plate_aluminum"
+		],
+		"forge:plates/lead": [
+			"alltheores:lead_plate",
+			"thermal:lead_plate",
+			"immersiveengineering:plate_lead"
+		],
+		"forge:plates/silver": [
+			"alltheores:silver_plate",
+			"thermal:silver_plate",
+			"immersiveengineering:plate_silver"
+		],
+		"forge:plates/nickel": [
+			"alltheores:nickel_plate",
+			"thermal:nickel_plate",
+			"immersiveengineering:plate_nickel"
+		],
+		"forge:plates/bronze": [
+			"alltheores:bronze_plate",
+			"thermal:bronze_plate"
+		],
+		"forge:plates/steel": [
+			"alltheores:steel_plate",
+			"thermal:steel_plate",
+			"immersiveengineering:plate_steel"
+		],
+		"forge:plates/uranium": [
+			"alltheores:uranium_plate",
+			"immersiveengineering:plate_uranium"
+		],
+		"forge:raw_materials/tin": [
+			"alltheores:raw_tin",
+			"mekanism:raw_tin",
+			"thermal:raw_tin"
+		],
+		"forge:raw_materials/aluminum": [
+			"alltheores:raw_aluminum",
+			"immersiveengineering:raw_aluminum"
+		],
+		"forge:raw_materials/lead": [
+			"alltheores:raw_lead",
+			"mekanism:raw_lead",
+			"thermal:raw_lead",
+			"immersiveengineering:raw_lead"
+		],
+		"forge:raw_materials/silver": [
+			"alltheores:raw_silver",
+			"thermal:raw_silver",
+			"immersiveengineering:raw_silver",
+			"occultism:raw_silver"
+		],
+		"forge:raw_materials/nickel": [
+			"alltheores:raw_nickel",
+			"thermal:raw_nickel",
+			"immersiveengineering:raw_nickel"
+		],
+		"forge:raw_materials/uranium": [
+			"alltheores:raw_uranium",
+			"mekanism:raw_uranium",
+			"immersiveengineering:raw_uranium"
+		],
+		"forge:storage_blocks/raw_tin": [
+			"alltheores:raw_tin_block",
+			"mekanism:block_raw_tin",
+			"thermal:raw_tin_block"
+		],
+		"forge:storage_blocks/raw_aluminum": [
+			"alltheores:raw_aluminum_block",
+			"immersiveengineering:raw_block_aluminum"
+		],
+		"forge:storage_blocks/raw_lead": [
+			"alltheores:raw_lead_block",
+			"mekanism:block_raw_lead",
+			"thermal:raw_lead_block",
+			"immersiveengineering:raw_block_lead"
+		],
+		"forge:storage_blocks/raw_silver": [
+			"alltheores:raw_silver_block",
+			"thermal:raw_silver_block",
+			"immersiveengineering:raw_block_silver"
+		],
+		"forge:storage_blocks/raw_nickel": [
+			"alltheores:raw_nickel_block",
+			"thermal:raw_nickel_block",
+			"immersiveengineering:raw_block_nickel"
+		],
+		"forge:storage_blocks/raw_uranium": [
+			"alltheores:raw_uranium_block",
+			"mekanism:block_raw_uranium",
+			"immersiveengineering:raw_block_uranium"
+		],
+		"forge:ingots/osmium": [
+			"alltheores:osmium_ingot",
+			"mekanism:ingot_osmium"
+		],
+		"forge:dusts/sulfur": [
+			"mekanism:dust_sulfur",
+			"thermal:sulfur_dust",
+			"immersiveengineering:dust_sulfur"
+		],
+		"forge:dusts/netherite": [
+			"mekanism:dust_netherite",
+			"thermal:netherite_dust"
+		],
+		"unifytags:tag3": [
+			"alltheores:tin_slate_ore",
+			"mekanism:deepslate_tin_ore",
+			"thermal:deepslate_tin_ore"
+		],
+		"unifytags:tag5": [
+			"alltheores:tin_ore",
+			"mekanism:tin_ore",
+			"thermal:tin_ore"
+		],
+		"unifytags:tag6": [
+			"alltheores:aluminum_slate_ore",
+			"immersiveengineering:deepslate_ore_aluminum"
+		],
+		"unifytags:tag8": [
+			"alltheores:aluminum_ore",
+			"immersiveengineering:ore_aluminum"
+		],
+		"unifytags:tag9": [
+			"alltheores:lead_slate_ore",
+			"mekanism:deepslate_lead_ore",
+			"immersiveengineering:deepslate_ore_lead",
+			"thermal:deepslate_lead_ore"
+		],
+		"unifytags:tag11": [
+			"alltheores:lead_ore",
+			"mekanism:lead_ore",
+			"immersiveengineering:ore_lead",
+			"thermal:lead_ore"
+		],
+		"unifytags:tag12": [
+			"alltheores:silver_slate_ore",
+			"immersiveengineering:deepslate_ore_silver",
+			"thermal:deepslate_silver_ore"
+		],
+		"unifytags:tag14": [
+			"alltheores:silver_ore",
+			"immersiveengineering:ore_silver",
+			"thermal:silver_ore"
+		],
+		"unifytags:tag15": [
+			"alltheores:nickel_slate_ore",
+			"immersiveengineering:deepslate_ore_nickel",
+			"thermal:deepslate_nickel_ore"
+		],
+		"unifytags:tag17": [
+			"alltheores:nickel_ore",
+			"immersiveengineering:ore_nickel",
+			"thermal:nickel_ore"
+		],
+		"unifytags:tag27": [
+			"alltheores:uranium_slate_ore",
+			"mekanism:deepslate_uranium_ore",
+			"immersiveengineering:deepslate_ore_uranium"
+		],
+		"unifytags:tag29": [
+			"alltheores:uranium_ore",
+			"mekanism:uranium_ore",
+			"immersiveengineering:ore_uranium"
+		],
+		"unifytags:tag36": [
+			"alltheores:osmium_slate_ore",
+			"mekanism:deepslate_osmium_ore"
+		],
+		"unifytags:tag38": [
+			"alltheores:osmium_ore",
+			"mekanism:osmium_ore"
+		]
+	},
+	"tagPriorityItems": {
+		"forge:plates/iron": "alltheores:iron_plate",
+		"forge:gears/iron": "alltheores:iron_gear",
+		"forge:gears/gold": "alltheores:gold_gear",
+		"forge:gears/diamond": "alltheores:diamond_gear",
+		"forge:plates/gold": "alltheores:gold_plate",
+		"forge:storage_blocks/copper": "minecraft:copper_block",
+		"forge:storage_blocks/tin": "alltheores:tin_block",
+		"forge:storage_blocks/aluminum": "alltheores:aluminum_block",
+		"forge:storage_blocks/lead": "alltheores:lead_block",
+		"forge:storage_blocks/silver": "alltheores:silver_block",
+		"forge:storage_blocks/nickel": "alltheores:nickel_block",
+		"forge:storage_blocks/bronze": "alltheores:bronze_block",
+		"forge:storage_blocks/steel": "alltheores:steel_block",
+		"forge:storage_blocks/uranium": "alltheores:uranium_block",
+		"forge:ingots/tin": "alltheores:tin_ingot",
+		"forge:ingots/aluminum": "alltheores:aluminum_ingot",
+		"forge:ingots/lead": "alltheores:lead_ingot",
+		"forge:ingots/silver": "alltheores:silver_ingot",
+		"forge:ingots/nickel": "alltheores:nickel_ingot",
+		"forge:ingots/bronze": "alltheores:bronze_ingot",
+		"forge:ingots/steel": "alltheores:steel_ingot",
+		"forge:ingots/uranium": "alltheores:uranium_ingot",
+		"forge:nuggets/copper": "alltheores:copper_nugget",
+		"forge:nuggets/tin": "alltheores:tin_nugget",
+		"forge:nuggets/aluminum": "alltheores:aluminum_nugget",
+		"forge:nuggets/lead": "alltheores:lead_nugget",
+		"forge:nuggets/silver": "alltheores:silver_nugget",
+		"forge:nuggets/nickel": "alltheores:nickel_nugget",
+		"forge:nuggets/bronze": "alltheores:bronze_nugget",
+		"forge:nuggets/steel": "alltheores:steel_nugget",
+		"forge:nuggets/uranium": "alltheores:uranium_nugget",
+		"forge:dusts/copper": "alltheores:copper_dust",
+		"forge:dusts/tin": "alltheores:tin_dust",
+		"forge:dusts/aluminum": "alltheores:aluminum_dust",
+		"forge:dusts/lead": "alltheores:lead_dust",
+		"forge:dusts/silver": "alltheores:silver_dust",
+		"forge:dusts/nickel": "alltheores:nickel_dust",
+		"forge:dusts/bronze": "alltheores:bronze_dust",
+		"forge:dusts/steel": "alltheores:steel_dust",
+		"forge:dusts/uranium": "alltheores:uranium_dust",
+		"forge:gears/copper": "alltheores:copper_gear",
+		"forge:gears/tin": "alltheores:tin_gear",
+		"forge:gears/lead": "alltheores:lead_gear",
+		"forge:gears/silver": "alltheores:silver_gear",
+		"forge:gears/nickel": "alltheores:nickel_gear",
+		"forge:gears/bronze": "alltheores:bronze_gear",
+		"forge:gears/steel": "alltheores:steel_gear",
+		"forge:plates/copper": "alltheores:copper_plate",
+		"forge:plates/tin": "alltheores:tin_plate",
+		"forge:plates/aluminum": "alltheores:aluminum_plate",
+		"forge:plates/lead": "alltheores:lead_plate",
+		"forge:plates/silver": "alltheores:silver_plate",
+		"forge:plates/nickel": "alltheores:nickel_plate",
+		"forge:plates/bronze": "alltheores:bronze_plate",
+		"forge:plates/steel": "alltheores:steel_plate",
+		"forge:plates/uranium": "alltheores:uranium_plate",
+		"forge:raw_materials/tin": "alltheores:raw_tin",
+		"forge:raw_materials/aluminum": "alltheores:raw_aluminum",
+		"forge:raw_materials/lead": "alltheores:raw_lead",
+		"forge:raw_materials/silver": "alltheores:raw_silver",
+		"forge:raw_materials/nickel": "alltheores:raw_nickel",
+		"forge:raw_materials/uranium": "alltheores:raw_uranium",
+		"forge:storage_blocks/raw_tin": "alltheores:raw_tin_block",
+		"forge:storage_blocks/raw_aluminum": "alltheores:raw_aluminum_block",
+		"forge:storage_blocks/raw_lead": "alltheores:raw_lead_block",
+		"forge:storage_blocks/raw_silver": "alltheores:raw_silver_block",
+		"forge:storage_blocks/raw_nickel": "alltheores:raw_nickel_block",
+		"forge:storage_blocks/raw_uranium": "alltheores:raw_uranium_block",
+		"forge:ingots/osmium": "alltheores:osmium_ingot",
+		"forge:dusts/sulfur": "immersiveengineering:dust_sulfur",
+		"forge:dusts/netherite": "thermal:netherite_dust",
+		"unifytags:tag3": "alltheores:tin_slate_ore",
+		"unifytags:tag5": "alltheores:tin_ore",
+		"unifytags:tag6": "alltheores:aluminum_slate_ore",
+		"unifytags:tag8": "alltheores:aluminum_ore",
+		"unifytags:tag9": "alltheores:lead_slate_ore",
+		"unifytags:tag11": "alltheores:lead_ore",
+		"unifytags:tag12": "alltheores:silver_slate_ore",
+		"unifytags:tag14": "alltheores:silver_ore",
+		"unifytags:tag15": "alltheores:nickel_slate_ore",
+		"unifytags:tag17": "alltheores:nickel_ore",
+		"unifytags:tag27": "alltheores:uranium_slate_ore",
+		"unifytags:tag29": "alltheores:uranium_ore",
+		"unifytags:tag36": "alltheores:osmium_slate_ore",
+		"unifytags:tag38": "alltheores:osmium_ore"
+	},
+	"unifyexclude": []
+}
