@@ -1,20 +1,15 @@
 # Folders/wildcards
+/.idea/
 /automation/
-/journeymap/
-/dumps/
+/backups/
 /crash-reports/
 /.mixin.out/
-/overrides/
 /logs/
-config/forgeendertech/Biomes/
-config/masterful_machinery/packs/
-/local/ftbchunks/data
+/local/ftbchunks/
 /local/ftbutilities/
 /local/ftbultimine/
-/llibrary/
-/libraries/
-/ESM/
 /saves/
+/server-resource-packs
 screenshots/
 /mods/
 /world/
@@ -24,7 +19,6 @@ screenshots/
 **/*.log
 /.mixin.out
 /saves
-/downloads
 /resourcepacks
 **/*.exe
 *.dll
@@ -35,9 +29,11 @@ screenshots/
 !InstanceSync*.jar
 **/*.jar.disabled
 **/*.jar.meta
+hotbar.nbt
 
 # Utilities
 .ReAuth.cfg
+
 usernamecache.json
 usercache.json
 knownkeys.txt
@@ -54,8 +50,7 @@ ModpackUploader.bat
 .curseclient
 config/XaeroWorldMap/
 eula.txt
-XaeroWaypoints/
-XaeroWorldMap/
+/Xaero*
 options.txt
 secrets.ps1
 CHANGELOG-GENERATED.md
@@ -71,11 +66,9 @@ TrashSlotSaveState.json
 mode.json
 emojiful/cache/*
 !config/defaultoptions/options.txt
-.vote2020_marker
 servers.dat_old
 banned-ips.json
 banned-players.json
-ESM/Anchors.dat
 config/xnet-client.toml
 config/buildinggadgets-client.toml
 config/mining_helmet-client.toml
@@ -94,11 +87,10 @@ update-server.bat
 update-server.ps1
 !server_files/**
 !server_files_expert/**
-!automation/**
+automation/**
 automation/secrets.ps1
 automation/ChangelogGenerator-2.0.0-pre10.jar
 automation/ModListCreator-1.1.5.jar
-1.16.5.json
 
 # Client Configs
 config/InvTweaks.cfg

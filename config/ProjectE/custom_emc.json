@@ -103,6 +103,38 @@
     {
       "item": "alltheores:osmium_dust",
       "emc": 512
+    },
+    {
+      "item": "powah:steel_energized",
+      "emc": 9216
+    },
+    {
+      "item": "powah:crystal_blazing",
+      "emc": 6144
+    },
+    {
+      "item": "powah:crystal_niotic",
+      "emc": 32768
+    },
+    {
+      "item": "powah:crystal_spirited",
+      "emc": 65536
+    },
+    {
+      "item": "powah:crystal_nitro",
+      "emc": 782848
+    },
+    {
+      "item": "powah:ender_core",
+      "emc": 12744
+    },
+    {
+      "item": "powah:charged_snowball",
+      "emc": 4
+    },
+    {
+      "item": "powah:dry_ice",
+      "emc": 648
     }
   ]
 }
