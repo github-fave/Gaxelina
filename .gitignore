@@ -1,20 +1,15 @@
 # Folders/wildcards
+/.idea/
 /automation/
-/journeymap/
-/dumps/
+/backups/
 /crash-reports/
 /.mixin.out/
-/overrides/
 /logs/
-config/forgeendertech/Biomes/
-config/masterful_machinery/packs/
 /local/ftbchunks/data
 /local/ftbutilities/
 /local/ftbultimine/
-/llibrary/
-/libraries/
-/ESM/
 /saves/
+/server-resource-packs
 screenshots/
 /mods/
 /world/
@@ -24,7 +19,6 @@ screenshots/
 **/*.log
 /.mixin.out
 /saves
-/downloads
 /resourcepacks
 **/*.exe
 *.dll
@@ -38,6 +32,7 @@ screenshots/
 
 # Utilities
 .ReAuth.cfg
+hotbar.nbt
 usernamecache.json
 usercache.json
 knownkeys.txt
@@ -54,8 +49,7 @@ ModpackUploader.bat
 .curseclient
 config/XaeroWorldMap/
 eula.txt
-XaeroWaypoints/
-XaeroWorldMap/
+/Xaero*
 options.txt
 secrets.ps1
 CHANGELOG-GENERATED.md
@@ -71,11 +65,9 @@ TrashSlotSaveState.json
 mode.json
 emojiful/cache/*
 !config/defaultoptions/options.txt
-.vote2020_marker
 servers.dat_old
 banned-ips.json
 banned-players.json
-ESM/Anchors.dat
 config/xnet-client.toml
 config/buildinggadgets-client.toml
 config/mining_helmet-client.toml
